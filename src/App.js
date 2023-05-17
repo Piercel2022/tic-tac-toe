@@ -6,8 +6,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <Board />
+      <h1>Tic Tac Toe </h1>
       </header>
+      <body className="App-body">
+      <Board />
+      </body>
     </div>
   );
 }
+export default App;
