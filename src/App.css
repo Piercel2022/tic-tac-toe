@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.game{
+  
+}
+
+.game-info{
+  display: flex;
+  justify-content: center;
+  width: auto;
+}
