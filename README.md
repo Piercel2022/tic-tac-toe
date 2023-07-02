@@ -24,8 +24,9 @@
 
 ![portfolio5](https://github.com/Piercel2022/tic-tac-toe/assets/98626003/33380e21-6419-468f-abde-dcc10c322cee)
 
-# 📖  <a name="about-project">Tic Tac Toe</a>
-Tic Tac Toe : Tic-tac-toe, also known as noughts and crosses, is a classic paper-and-pencil game played on a grid of 3x3 squares. Overall, tic-tac-toe is a simple yet enjoyable game that tests players' ability to think strategically and anticipate their opponent's moves.
+# 📖  <a name="about-project">Tic Tac Toe</a> 
+
+Tic tac toe, also known as noughts and crosses, is a classic paper-and-pencil game played on a grid of 3x3 squares. Overall, tic-tac-toe is a simple yet enjoyable game that tests players' ability to think strategically and anticipate their opponent's moves.
 
 ## 🛠 Built With <a name="built-with">React, JavaScript, Node Package Manager and yarn</a>
 
